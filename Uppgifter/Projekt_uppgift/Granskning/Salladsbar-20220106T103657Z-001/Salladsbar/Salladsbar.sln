@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Salladsbar", "Salladsbar\Salladsbar.pyproj", "{9A820F03-8D89-4C72-98F2-B137D09C1FEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A820F03-8D89-4C72-98F2-B137D09C1FEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A820F03-8D89-4C72-98F2-B137D09C1FEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C708264F-DEA0-446A-8EAA-8CB871975292}
+	EndGlobalSection
+EndGlobal
